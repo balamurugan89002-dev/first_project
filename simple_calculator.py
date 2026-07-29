@@ -1,0 +1,21 @@
+ans =float(input("Enter first number: "))
+while True:
+    operator = input("Enter operator(+,-,*,/)or = to finish:")
+    if operator == "=":
+        break
+    num =float(input("Enter next num: "))
+    if operator == "+":
+        ans=ans+num
+    elif operator == "-":
+        ans = ans-num
+    elif operator == "*":
+        ans =ans*num
+    elif operator == "/":
+        if num != 0:
+            ans = ans/num
+        else:
+            print("cannot divide zero")
+    else:
+        print("Error")
+    print("current Answer =",ans)
+print("Ans =",ans)
