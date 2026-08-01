@@ -11,9 +11,11 @@ Multiple calculations in one run
 Division by zero handling
 
 #Run
+
     bash
 python simple_calculator.py
 
 
 # Author
+
  Dinesh_kumar_B
