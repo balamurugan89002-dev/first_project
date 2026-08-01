@@ -1,7 +1,8 @@
-# Simple Python Calculator
+# Simple_Calculator.py
 A beginner-friendly calculator build with Python.
 
 #Features
+
 Addition(+)
 Subraction(-)
 Multiplication(*)
