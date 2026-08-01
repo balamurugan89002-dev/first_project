@@ -1,4 +1,4 @@
-# Simple_Calculator.py
+# Simple_Calculator
 A beginner-friendly calculator build with Python.
 
 #Features
